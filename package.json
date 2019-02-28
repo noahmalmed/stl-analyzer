@@ -1,0 +1,19 @@
+{
+  "name": "stl-analyzer",
+  "version": "1.0.0",
+  "description": "A node script that analyzes some stats on a give .stl file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analyze": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
